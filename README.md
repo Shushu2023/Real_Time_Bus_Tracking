@@ -1,6 +1,7 @@
 # Real_Time_Bus_Tracking
+
 <img src="bus_tracker_image.png" width = 300>
-A website that uses mapbox API to source real-time data of the Boston MBTA buses and  display the live location of the busses on a map. 
+<br> A website that uses mapbox API to source real-time data of the Boston MBTA buses and  display the live location of the busses on a map. 
 MBTA bus data will be used to determine stops between Harvard and MIT.
 An animated marker on the map highlights the bus routes.
 
