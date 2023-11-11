@@ -2,6 +2,7 @@
 A website that uses mapbox API to source real-time data of the Boston MBTA buses and  display the live location of the busses on a map. 
 MBTA bus data will be used to determine stops between Harvard and MIT.
 An animated marker on the map highlights the bus routes.
+<img src="eyemovement.png" width = 300>
 
 ## How to run the project on your computer
 1. Fork the repository to your machine.
