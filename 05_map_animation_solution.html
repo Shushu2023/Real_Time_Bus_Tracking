@@ -5,7 +5,7 @@
   mapbox is an open-source platform that allows you to create and display maps on a web page. The mapboxgl JavaScript library is part of the Mapbox ecosystem. It allows you to add all sorts of customizations to the map. 
   For example, you can add a marker at a specific location on the map.
 
-o accomplish this task, you will need to do the following:
+To accomplish this task, you will need to do the following:
 Create a Mapbox account and get the access token
 Add the access token to the mapboxgl instance defined in the mapanimation.js
 Create a marker and add it to the map using the mapboxgl pre-built functions.
@@ -15,7 +15,7 @@ If your code works, you should be able to see a marker moving from one bus stop 
 <html>
 <head>
 <meta charset="utf-8" />
-<title>Add a default marker</title>
+<title>Real time bus tracking</title>
 <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
 <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
 <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css" rel="stylesheet" />
@@ -42,7 +42,9 @@ If your code works, you should be able to see a marker moving from one bus stop 
  
 <script>
   //access token required to use mapbox api
-  mapboxgl.accessToken = 'pk.eyJ1Ijoic2h1c2h1MjAyMyIsImEiOiJjbG9oN25iM3kxMmxmMmtzMTF5a2VyZzZzIn0.U-pRGd2OmWOH9h4hyzCEVQ';
+  //use your token generated from mapbox.com 
+  
+  mapboxgl.accessToken = '';
 
    //create the map
   var map = new mapboxgl.Map({
@@ -88,7 +90,6 @@ function move(){
     move(); // call the move function again to repeat executing
   },1000); //repeat every 1 second
 }
-
 </script>
  
 </body>
