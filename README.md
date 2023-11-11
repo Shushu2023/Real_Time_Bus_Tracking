@@ -6,8 +6,8 @@ An animated marker on the map highlights the bus routes.
 ## How to run the project on your computer
 1. Fork the repository to your machine.
 2. Create a Mapbox account and get the access token.
-3. Add the access token to the mapboxgl instance defined in the mapanimation.js.
-If your code works, you should be able to see a marker moving from one bus stop to the next on the map.
+3. Add the access token to the mapboxgl instance defined in the mapanimation.js
+<br>If your code works, you should be able to see a marker moving from one bus stop to the next on the map.
 
 ## what else can you do?
 Use a map of a different state.
