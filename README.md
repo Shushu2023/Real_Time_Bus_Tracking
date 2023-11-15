@@ -17,6 +17,6 @@ An animated marker on the map highlights the bus routes.
 Use a map of a different state.
 
 ## License information
-<a href="https://github.com/Shushu2023/Real_Time_Bus_Tracking/blob/main/LICENSE"></a>
+<a href="https://github.com/Shushu2023/Real_Time_Bus_Tracking/blob/main/LICENSE">view</a>
 
 
