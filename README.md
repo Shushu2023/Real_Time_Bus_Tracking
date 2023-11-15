@@ -7,10 +7,12 @@ MBTA bus data will be used to determine stops between Harvard and MIT.
 An animated marker on the map highlights the bus routes.
 
 
-## How to run the project on your computer
+## How to run 
 1. Fork the repository to your machine.
-2. Create a Mapbox account and get the access token.
-3. In the script add the access token where need3ed
+2. place all the files in one folder.
+3. Create a Mapbox account and get the access token.
+4. In the script add the access token where needed
+5. select the file with the .html extention and click open.
 <br>If your code works, you should be able to see a marker moving from one bus stop to the next on the map.
 
 ## future improvements
