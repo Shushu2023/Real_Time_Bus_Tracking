@@ -19,4 +19,7 @@ Use a map of a different state.
 ## License information
 <a href="https://github.com/Shushu2023/Real_Time_Bus_Tracking/blob/main/LICENSE">view</a>
 
+## Project page
+<a href="http://shushu2023.github.io/Real_Time_Bus_Tracking">Go</a>
+
 
